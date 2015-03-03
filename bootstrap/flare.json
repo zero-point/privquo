@@ -1,0 +1,142 @@
+{
+"name": "flare",
+ "children": [
+  {
+   "name": "analytics",
+   "children": [
+    {
+     "name": "optimization",
+     "children": [
+      {"name": "Private Messages", "size": 7230}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "query",
+   "children": [
+    {"name": "Website", "size": 8430},
+    {
+     "name": "methods",
+     "children": [
+      {"name": "ID", "size": 2640}
+     ]
+    },
+        {"name": "Family", "size": 6650}
+   ]
+  },
+  {
+   "name": "scale",
+   "children": [
+        {"name": "Fav Games", "size": 4610}
+   ]
+  },
+  {
+   "name": "util",
+   "children": [
+    {"name": "Fav Books", "size": 4500},
+    {
+     "name": "heap",
+     "children": [
+      {"name": "Fav Music", "size": 4520}
+     ]
+    },
+    {"name": "Fav Movies", "size": 4500},
+    {
+     "name": "math",
+     "children": [
+      {"name": "Last Name", "size": 6370}
+     ]
+    },
+    {"name": "Timezone", "size": 5260},
+    {
+     "name": "palette",
+     "children": [
+      {"name": "Friend List", "size": 6090}
+     ]
+    },
+    {"name": "Gender", "size": 4920}
+   ]
+  },
+  {
+   "name": "vis",
+   "children": [
+    {
+     "name": "axis",
+     "children": [
+      {"name": "Hometown", "size": 5520}
+     ]
+    },
+    {
+     "name": "controls",
+     "children": [
+            {"name": "Location", "size": 5860}
+     ]
+    },
+    {
+     "name": "data",
+     "children": [
+      {"name": "Sexual Orientation", "size": 5770},
+      {
+       "name": "render",
+       "children": [
+        {"name": "Religious Affiliations", "size": 5490}
+       ]
+      },
+      {"name": "Political Affiliations", "size": 5370}
+     ]
+    },
+    {
+     "name": "events",
+     "children": [
+      {"name": "Personal photographs", "size": 7110}
+     ]
+    },
+    {
+     "name": "legend",
+     "children": [
+      {"name": "Personal videos", "size": 6830}
+     ]
+    },
+    {
+     "name": "operator",
+     "children": [
+      {
+       "name": "Name",
+       "children": [
+        {"name": "First Name", "size": 5480}
+       ]
+      },
+      {
+       "name": "encoder",
+       "children": [
+        {"name": "Birthdate", "size": 6060}
+       ]
+      },
+      {
+       "name": "filter",
+       "children": [
+        {"name": "Email", "size": 6290}
+       ]
+      },
+      {"name": "Fitness", "size": 5020},
+      {
+       "name": "label",
+       "children": [
+        {"name": "Diet", "size": 4960}
+       ]
+      },
+      {
+       "name": "layout",
+       "children": [
+                {"name": "Employment History", "size": 5650}
+       ]
+      },
+      {"name": "Education History", "size": 5830}
+     ]
+    },
+    {"name": "Relationships", "size": 6820}
+   ]
+  }
+ ]
+}
