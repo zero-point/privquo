@@ -1,1 +1,1 @@
-# smth
+# PrivQuo university project
